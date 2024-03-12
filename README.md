@@ -8,3 +8,4 @@
 - Pensar en positivo
 - Tomar descansos para no sobresaturarse
 - Aceptar los retos que vendran mas adelante
+* * *
