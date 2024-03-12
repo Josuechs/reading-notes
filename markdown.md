@@ -14,7 +14,7 @@ Se necesitaria 6 numerales (#######)
 4. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
 *cursiva*  - **negrita**
 5. ¿Cómo se crea un vínculo con Markdown?
-[enlace en línea](http://www.limni.net)
+[enlace en línea]    (http://www.limni.net) => se escribe todo junto
 
 6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 * asteriscos, - guiones, o + símbolo de suma.
