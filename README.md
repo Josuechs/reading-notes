@@ -1,13 +1,15 @@
-# reading-notes
+# Josuechs
 
-## Growth Mindset
-- Para mi es un pensar en la cual tengo que mentalizarme que puedo mejorar, que puedo superar las expectativas que tengo sobre este curso y no debería pensar en rendirme por mucho que se complique. Paso a paso se irá mejorando.
-[Growth-mindset](http://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+Mi nombre es Josué Chuquimango Soria, algunos me llaman Joss y soy un apasionado de la programación. Tengo la carrera de enfermería por culminar y es raro que me dedique a la progrmación pero es una espinilla que estaba ahí y me preguntaba, ¿por que no intentarlo?
 
-## Recordatorio
-- Pensar en positivo
-- Tomar descansos para no sobresaturarse
-- Aceptar los retos que vendran mas adelante
+## La repo
 
+En esta pagina web pondré todos los avances y enseñanzas que tuve en clases.
 
-* * *
+## Contenido
+
+Aqui estarán los enlaces para las clases 102 y 201, recordar leer el README.
+
+[Clases102](./102/)
+
+[Clases103](./201/)
